@@ -1,7 +1,7 @@
 <?php
 
 
-namespace GetRowsInterface;
+namespace Ling\GetRowsInterface;
 
 interface GetRowsInterface
 {
